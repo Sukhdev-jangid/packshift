@@ -1,0 +1,428 @@
+@media only screen and (min-width:270px) and (max-width:576px) {
+
+
+    .b_inner {
+        width: 90%
+    }
+
+    .b_inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .bannerleft {
+        width: 100%;
+    }
+
+    .b_form {
+        width: 100%;
+    }
+
+    .ph_num {
+        display: none;
+    }
+
+    .navbar {
+        justify-content: center;
+    }
+
+    .bannerleft>h1 {
+        text-align: center;
+    }
+
+    .sp {
+        font-size: 20px;
+    }
+
+    .bannerleft>h2 {
+        text-align: center;
+    }
+
+    .bannerleft>p {
+        text-align: center;
+    }
+
+    .b_imgs {
+        justify-content: center;
+    }
+
+    .section1inner {
+        width: 93%;
+    }
+
+    .s1_videos {
+        justify-content: center;
+    }
+
+    .s1_video {
+        border-radius: 20px;
+        width: 88%;
+    }
+
+    .sec2_inner {
+        width: 93%;
+    }
+
+    .sec2_boxs {
+        justify-content: center;
+    }
+
+    .sec2_box {
+        width: 95%;
+    }
+
+    .sec3_inner {
+        width: 93%;
+    }
+
+    .sec3_boxs {
+        justify-content: center;
+    }
+
+    .sec3_box {
+        width: 95%;
+        margin: 10px 10px;
+    }
+
+    .sec4_inner {
+        width: 93%;
+    }
+
+    .sec4_boxs {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .sec4_box {
+        width: 50%;
+        margin: 10px 0px;
+    }
+
+    .sec5_box{
+        position: static;
+        padding: 0.1px 0px 20px 0px;
+        width: 80%;
+    }
+    
+    .sec5_minibox{
+        position: static;
+        width: 45%;
+        margin: 20px auto;
+    }
+
+    .sec5_box>p{
+        width: 90%;
+        margin: 20px 20px;
+        text-align: center;
+    }
+
+    .sec5_minibox>img{
+        width: 100%;
+    }
+
+    .sec6_imgs {
+        width: 93%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .sec6_img {
+        width: 85%;
+        margin: 10px;
+    }
+
+    .sec7_boxs{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .sec7_box{
+        width: 99%;
+        margin: 10px 0px;
+    }
+
+    footer>p{
+        width: 90%;
+        margin: 20px auto;
+    }
+
+
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .b_inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .bannerleft {
+        width: 85%;
+    }
+
+    .b_form {
+        width: 85%;
+    }
+
+    .ph_num {
+        display: none;
+    }
+
+    .navbar {
+        justify-content: center;
+    }
+
+    .bannerleft>h1 {
+        text-align: center;
+    }
+
+    .sp {
+        font-size: 20px;
+    }
+
+    .bannerleft>h2 {
+        text-align: center;
+    }
+
+    .bannerleft>p {
+        text-align: center;
+    }
+
+    .b_imgs {
+        justify-content: center;
+    }
+
+    .section1inner {
+        width: 93%;
+    }
+
+    .s1_videos {
+        justify-content: center;
+    }
+
+    .s1_video {
+        border-radius: 20px;
+        width: 88%;
+    }
+
+    .sec2_inner {
+        width: 93%;
+    }
+
+
+    .sec2_boxs {
+        justify-content: center;
+    }
+
+    .sec2_box {
+        width: 95%;
+    }
+
+    .sec3_inner {
+        width: 93%;
+    }
+
+    .sec3_boxs {
+        justify-content: center;
+    }
+
+    .sec3_box {
+        width: 45%;
+        margin: 10px 10px;
+    }
+
+    .sec4_inner {
+        width: 93%;
+    }
+
+    .sec4_boxs {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .sec4_box {
+        width: 50%;
+        margin: 10px 0px;
+    }
+
+    .sec5_box{
+        position: static;
+        padding: 0.1px 0px 20px 0px;
+        width: 60%;
+    }
+    
+    .sec5_minibox{
+        position: static;
+        width: 45%;
+        margin: 20px auto;
+    }
+
+    .sec5_box>p{
+        width: 90%;
+        margin: 20px 20px;
+        text-align: center;
+    }
+
+    .sec5_minibox>img{
+        width: 100%;
+    }
+
+    .sec6_imgs {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .sec6_img {
+        width: 45%;
+        margin: 10px;
+    }
+
+    .sec7_boxs{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .sec7_box{
+        width: 99%;
+        margin: 10px 0px;
+    }
+
+    
+
+}
+
+@media only screen and (min-width:767px) and (max-width:992px) {
+    .b_inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .bannerleft {
+        width: 85%;
+    }
+
+    .b_form {
+        width: 85%;
+    }
+
+    .s1_videos {
+        justify-content: space-between;
+    }
+
+    .s1_video {
+        border-radius: 20px;
+        width: 48%;
+    }
+
+    .sec2_inner {
+        width: 93%;
+    }
+
+
+    .sec2_boxs {
+        justify-content: center;
+    }
+
+    .sec2_box {
+        width: 95%;
+    }
+
+    .sec3_boxs {
+        justify-content: center;
+    }
+
+    .sec3_box {
+        width: 29%;
+        margin: 10px 10px;
+    }
+
+    .sec4_boxs {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .sec4_box {
+        width: 33%;
+        margin: 10px 0px;
+    }
+
+    .sec5_box{
+        position: static;
+        padding: 0.1px 0px 20px 0px;
+    }
+    
+    .sec5_minibox{
+        position: static;
+        width: 40%;
+        margin: 20px auto;
+    }
+
+    .sec5_box>p{
+        width: 90%;
+        margin: 20px 20px;
+        text-align: center;
+    }
+
+    .sec5_minibox>img{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1200px) {
+
+    .b_inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .bannerleft {
+        width: 85%;
+    }
+
+    .b_form {
+        width: 85%;
+    }
+
+    .s1_videos {
+        justify-content: space-between;
+    }
+
+    .s1_video {
+        border-radius: 20px;
+        width: 48%;
+    }
+
+    .sec4_boxs {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .sec4_box {
+        width: 33%;
+        margin: 10px 0px;
+    }
+
+    .sec5_box{
+        position: static;
+        padding: 0.1px 0px 20px 0px;
+    }
+    
+    .sec5_minibox{
+        position: static;
+        width: 35%;
+        margin: 20px auto;
+    }
+
+    .sec5_box>p{
+        width: 90%;
+        margin: 20px 20px;
+        text-align: center;
+    }
+
+    .sec5_minibox>img{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1400px) {}
